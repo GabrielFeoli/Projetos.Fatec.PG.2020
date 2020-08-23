@@ -14,7 +14,7 @@
     <body>
         <h1>Fatec PG</h1>
         <h2>Essa é a página Java</h2>
-        <div><%= new java.util.Date() %></div>
+        <div>Data e Hora:<%= new java.util.Date() %></div>
         <a href="index.html">Voltar</a>
     </body>
 </html>
